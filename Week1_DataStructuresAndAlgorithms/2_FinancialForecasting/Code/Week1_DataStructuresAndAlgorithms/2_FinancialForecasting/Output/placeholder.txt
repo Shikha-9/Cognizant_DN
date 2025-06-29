@@ -1,0 +1,1 @@
+This folder contains the output screenshot of the Financial Forecasting program.
