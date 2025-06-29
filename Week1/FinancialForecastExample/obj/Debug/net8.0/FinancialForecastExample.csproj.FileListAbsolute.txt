@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\bin\Debug\net8.0\FinancialForecastExample.exe
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\bin\Debug\net8.0\FinancialForecastExample.deps.json
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\bin\Debug\net8.0\FinancialForecastExample.runtimeconfig.json
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\bin\Debug\net8.0\FinancialForecastExample.dll
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\bin\Debug\net8.0\FinancialForecastExample.pdb
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\obj\Debug\net8.0\FinancialForecastExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\obj\Debug\net8.0\FinancialForecastExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\obj\Debug\net8.0\FinancialForecastExample.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\obj\Debug\net8.0\FinancialForecastExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\obj\Debug\net8.0\FinancialForecastExample.sourcelink.json
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\obj\Debug\net8.0\FinancialForecastExample.dll
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\obj\Debug\net8.0\refint\FinancialForecastExample.dll
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\obj\Debug\net8.0\FinancialForecastExample.pdb
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\obj\Debug\net8.0\FinancialForecastExample.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\cognizantCourse\week 1\FinancialForecastExample\obj\Debug\net8.0\ref\FinancialForecastExample.dll
